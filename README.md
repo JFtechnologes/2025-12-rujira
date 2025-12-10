@@ -1,9 +1,9 @@
 # Rujira audit details
-- Total Prize Pool: $40,000 USDC
-    - HM awards: up to $35,520 USDC
+- Total Prize Pool: $40,000 in USDC
+    - HM awards: up to $35,520 in USDC
         - If no valid Highs or Mediums are found, the HM pool is $0
-    - QA awards: $1,480 USDC
-    - Judge awards: $3,000 USDC
+    - QA awards: $1,480 in USDC
+    - Judge awards: $3,000 in USDC
 - [Read our guidelines for more details](https://docs.code4rena.com/competitions)
 - Starts December 15, 2025 20:00 UTC
 - Ends January 12, 2026 20:00 UTC
