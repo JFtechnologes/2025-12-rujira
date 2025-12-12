@@ -5,8 +5,8 @@
     - QA awards: $1,480 in USDC
     - Judge awards: $3,000 in USDC
 - [Read our guidelines for more details](https://docs.code4rena.com/competitions)
-- Starts December 15, 2025 20:00 UTC
-- Ends January 15, 2026 20:00 UTC
+- Starts December 16, 2025 20:00 UTC
+- Ends January 16, 2026 20:00 UTC
 
 ### ❗ Important notes for wardens
 1. Since this audit includes live/deployed code, **all submissions will be treated as sensitive**:
