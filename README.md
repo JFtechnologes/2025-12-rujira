@@ -33,12 +33,18 @@ Liquidations must be triggered offchain. The process is permissionless and there
 
 # Overview
 
-[ ⭐️ SPONSORS: add info here ]
+Rujira is the App Layer on THORChain built using CosmWasm, offering an integrated suite of DeFi dapps, accessible with native assets from all connected chains in the form of "[Secured Assets](https://docs.thorchain.org/thorchain-finance/secured-assets)" powered by THORChain technology.
+
+This audit is focussed on the lending and borrowing protocols:
+* Ghost Lending: Decentralized money market allwowing users to deposit assets in lending vaults that can be borrowed by authorized smart contract, mainly the Credit Accounts.
+* Ghost Credit: Generic primitive design to allow overcollateralised borrowing of assets on Rujira.
+* Rujira Account: generic smart contract for which the admin can call any CosmosMsg through the use of the sudo entrypoint. Useful for siloed accounting in Ghost Credit.
 
 ## Links
 
-- **Previous audits:**  https://www.halborn.com/audits/thorchain/credit-accounts-21860f and https://www.halborn.com/audits/thorchain/ruji-lending-48bc98
-  - ✅ SCOUTS: If there are multiple report links, please format them in a list.
+- **Previous audits:**
+  - https://www.halborn.com/audits/thorchain/credit-accounts-21860f 
+  - https://www.halborn.com/audits/thorchain/ruji-lending-48bc98
 - **Documentation:** https://gitlab.com/thorchain/rujira/-/blob/main/contracts/rujira-ghost-credit/README.md
 - **Website:** https://rujira.network/
 - **X/Twitter:** https://x.com/RujiraNetwork
